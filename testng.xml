@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/AaradhyaVashisht/IdeaProjects/ArithmeticCalculator_JSBIN_Lakshman/src/test/java/tests/Addition_CalculatorTest.java">
+        <classes>
+            <class name="tests.Addition_CalculatorTest"/>
+            <class name="tests.Subtraction_CalculatorTest"/>
+            <class name="tests.Multiplication_CalculatorTest"/>
+            <class name="tests.Division_CalcualtorTest"/>
+            <class name="tests.Delete_CalculatorTest"/>
+            <class name="tests.Expression_CalculatorTest"/>
+            <class name="tests.InvalidExpression_CalculatorTest"/>
+        </classes>
+    </test>
+</suite>
